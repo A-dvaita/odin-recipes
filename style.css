@@ -48,3 +48,7 @@ a:hover{
 a:active{
     color: deeppink;
 }
+
+.recipe{
+    background-image: url("img/recipe-bg-img.jpeg");
+}
