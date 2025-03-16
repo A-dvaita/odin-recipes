@@ -19,6 +19,7 @@ h2{
 }
 
 #list{
+    color: darkred;
     font-size: 30px;
     width: 900px;
     margin: auto;
