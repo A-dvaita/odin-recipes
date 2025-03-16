@@ -6,12 +6,16 @@ h1{
     text-align: center;
     font-size: 80px;
     margin-bottom: 50px;
+    color: indigo;
+    text-decoration: underline;
 }
 
 h2{
     font-size: 50px;
     width: 900px;
     margin: auto;
+    color: indigo;
+    text-decoration: underline;
 }
 
 #list{
