@@ -22,8 +22,25 @@ h2{
 
 .item{
     margin-bottom: 30px;
+
 }
 
 .top{
     margin-top: 20px;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: darkgreen;
+}
+
+a:hover{
+    color: brown;
+}
+
+a:active{
+    color: deeppink;
 }
