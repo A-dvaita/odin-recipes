@@ -27,7 +27,6 @@ h2{
 
 .item{
     margin-bottom: 30px;
-
 }
 
 .top{
@@ -64,4 +63,8 @@ p{
     font-size: 30px;
     width: 900px;
     margin: auto;
+}
+
+.home{
+    font-size: 45px;
 }
